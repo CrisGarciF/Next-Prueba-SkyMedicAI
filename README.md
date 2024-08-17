@@ -12,7 +12,7 @@ Tecnologías Utilizadas
 
 1. Clone este repositorio:
 
-git clone https://github.com/CrisGarciF/Perfil-Usuario.git
+git clone 
 
 2. Instalacion de las dependencias:
 
