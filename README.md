@@ -12,7 +12,7 @@ Tecnologías Utilizadas
 
 1. Clone este repositorio:
 
-git clone 
+git clone https://github.com/CrisGarciF/Next-Prueba-SkyMedicAI.git
 
 2. Instalacion de las dependencias:
 
