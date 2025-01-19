@@ -2,11 +2,11 @@
 
 Tecnologías Utilizadas
 
--Next.js 14
+- Next.js 14
 
--TypeScript
+- TypeScript
 
--Tailwind CSS
+- Tailwind CSS
 
 ## Instalación
 
