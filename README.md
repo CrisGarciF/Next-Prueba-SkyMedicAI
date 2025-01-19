@@ -1,6 +1,6 @@
 # web de un perfil de usuario
 
-Tecnologías Utilizadas
+Tecnologías Utilizadas:
 
 - Next.js 14
 
