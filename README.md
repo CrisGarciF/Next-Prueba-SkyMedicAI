@@ -23,3 +23,5 @@ npm install
 npm run dev
 
 Esto iniciará el servidor de desarrollo en http://localhost:3000.
+
+....
